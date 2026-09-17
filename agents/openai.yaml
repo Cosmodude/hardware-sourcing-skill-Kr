@@ -1,6 +1,6 @@
 interface:
-  display_name: "Hardware Design: Korea & China Sourcing"
-  short_description: "Design around parts available in Korea or China"
-  default_prompt: "Use $hardware-sourcing-design to select obtainable parts in Korea or China and design around their verified specifications."
+  display_name: "Hardware Design: Korea & China/Japan Sourcing"
+  short_description: "Design around parts available in Korea or China or Japan"
+  default_prompt: "Use $hardware-sourcing-design to select obtainable parts in Korea, then China, then Japan, with HyperFlight UK or global sourcing as a fallback, and design around their verified specifications."
 policy:
   allow_implicit_invocation: true
